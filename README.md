@@ -13,6 +13,6 @@
 My name is Diego Vinicius, Fullstack Developer with Angular e Python
 
 - :office_worker: Fullstack Developer **Popstand** and  **Skio Music**
-- :blue_heart: My Stack: Angula, Ionic, Python, TypeScript, AWS, NodeJS, React, Heroku and a bunch more.
+- :blue_heart: My Stack: Angular, Ionic, Python, TypeScript, AWS, NodeJS, React, Heroku and a bunch more.
 
 ---
