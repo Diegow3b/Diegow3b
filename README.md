@@ -10,9 +10,9 @@
 
 ## Hey! How are you? 👋
 
-My name is Diego Vinicius, Fullstack Developer with Angular e Python
+My name is Diego Vinicius, Fullstack Developer with Angular/React e Python/Node
 
-- :office_worker: Fullstack Developer **Popstand** and  **Skio Music**
+- :office_worker: Fullstack Developer **Trio**
 - :blue_heart: My Stack: Angular, Ionic, Python, TypeScript, AWS, NodeJS, React, Heroku and a bunch more.
 
 ---
