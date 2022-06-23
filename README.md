@@ -12,7 +12,7 @@
 
 My name is Diego Vinicius, Fullstack Developer with Angular/React e Python/Node
 
-- :office_worker: Fullstack Developer **Trio**
+- :office_worker: Senior Software Engineer at **Trio**
 - :blue_heart: My Stack: Angular, Ionic, Python, TypeScript, AWS, NodeJS, React, Heroku and a bunch more.
 
 ---
