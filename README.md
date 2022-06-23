@@ -10,7 +10,7 @@
 
 ## Hey! How are you? 👋
 
-My name is Diego Vinicius, Senior Software Engineer with Python/Node
+My name is Diego Vinicius,
 
 - :office_worker: Senior Software Engineer at **Trio**
 - :blue_heart: My Stack: Python & NodeJS.
