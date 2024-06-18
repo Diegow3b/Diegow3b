@@ -12,7 +12,7 @@
 
 My name is Diego Vinicius,
 
-- :office_worker: Senior Software Engineer at **Trio**
+- :office_worker: Senior Software Engineer
 - :blue_heart: My Stack: Python & NodeJS.
 
 ---
